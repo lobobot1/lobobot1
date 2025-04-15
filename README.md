@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack programmer with experie
 
 ## About Me
 
-- I'm 23 years old and have experience in software development.
+- I'm 26 years old and have experience in software development.
 - I'm a fullstack programmer proficient in various technologies, including Laravel, React, Next.js, Go, Echo, PHP, Unity, C#, C++, C, PostgreSQL, Prisma, and JavaScript.
 - I have worked on web development projects, creating dynamic and scalable web applications.
 - I also have experience in game development using Unity and C#.
